@@ -8,7 +8,7 @@ body{
     margin-top: -30%;
     font-family: 'Metal Mania', cursive;
     text-align: center;
-    background: -webkit-linear-gradient(#eee, #333);
+    background: -webkit-linear-gradient(rgb(255, 0, 0), rgb(255, 255, 255));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: fixed;
@@ -47,17 +47,21 @@ body{
     margin-top: 20px;
     margin-left: -20%;
     border-radius: 10px 10px;
+    border: 3px solid lightcoral;
 }
 .foot{
+    height: 20px;
     margin-bottom: 0%;
-    background-color: #C4C4C4;
+    background-color: #000000;
+    color: white;
     text-align: center;
     font-size: 1.2em;
     position: fixed;
-    margin-left: 21%;
+    margin-left: 18%;
     margin-bottom: 5%;
 }
 .foot img{
+    margin-top: 5%;
     height: 20px;
     width: 20px;
 }
