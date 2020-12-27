@@ -8,7 +8,7 @@ body{
     margin-top: -30%;
     font-family: 'Metal Mania', cursive;
     text-align: center;
-    background: -webkit-linear-gradient(rgb(255, 0, 0), rgb(255, 255, 255));
+    background: -webkit-linear-gradient(rgb(252, 24, 24), rgb(110, 0, 0));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: fixed;
