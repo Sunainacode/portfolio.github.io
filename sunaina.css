@@ -33,3 +33,13 @@ h1{
     }
   }
   
+  .aboutt{
+    /* background-image: linear-gradient(180deg, #000000 0%, pink calc(100% + 2px)); */
+    width: 100%;
+  }
+  .card{
+    background-color: black;
+    color: pink;
+    border-radius: 50px 80px;
+    overflow: hidden;
+  }
