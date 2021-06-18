@@ -10,8 +10,11 @@ h1{
 }
 .name{
     font-family: 'Chela One', cursive;
-    font-size: 6vw;
+    /* border: 3px solid black; */
+    /* display: inline-block; */
+    /* font-size: 6vw; */
 }
+
 .linear-wipe {
     text-align: center;
     
@@ -42,4 +45,9 @@ h1{
     color: pink;
     border-radius: 50px 80px;
     overflow: hidden;
+  }
+
+  .self{
+    height: 30px;
+    width: 30px;
   }
